@@ -2,7 +2,7 @@
 I make silly mods and this is the place to host them.
 
 # Installation Methods
-
+The mod zips on this repo include both options below, use one.
 ## Loading Unpacked Mod Folders
 
 - Go to `opera://extensions`
