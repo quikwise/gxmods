@@ -14,7 +14,7 @@ The mod zips on this repo include both options below, use one.
 
 ## Loading Mods via .crx Files
 
-- Install the mod .crx file
+- Download the mod .crx file
 - Drag and drop it on your browser
 - Go to `opera://mods` to make sure that it loaded properly
 - Profit
